@@ -1,0 +1,17 @@
+# Dados locais do programa (contas, senhas e tokens gerados)
+contas.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Editores e IDEs
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
